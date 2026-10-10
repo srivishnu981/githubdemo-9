@@ -1,5 +1,6 @@
 #hi
 #hello
+#hello
 from member import member
 from school import  school
 
